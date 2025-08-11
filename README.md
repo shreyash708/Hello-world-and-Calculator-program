@@ -1,6 +1,6 @@
-Experiment No. 1
+# Title : Hello World and Calculate Program
 
-Aim:
+# Aim:
 
 To install and set up Visual Studio Code for C++ programming, and to implement:
 
@@ -12,7 +12,7 @@ Tools Required:
 
 Visual Studio Code (VS Code)
 
-Theory:
+# Theory:
 
 In this experiment, you learn to set up a basic C++ programming environment using Visual Studio Code.
 
@@ -44,7 +44,7 @@ int main(): Entry point of the program.
 
 cout, cin: Output and input streams respectively.
 
-Conclusion:
+# Conclusion:
 
 By performing this experiment:
 
